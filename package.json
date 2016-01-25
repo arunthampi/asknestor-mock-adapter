@@ -1,6 +1,6 @@
 {
   "name": "asknestor-mock-adapter",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Mock Adapter for AskNestor apps",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/zerobotlabs/asknestor-mock-adapter/issues"
   },
   "dependencies": {
-    "asknestor": "~0.1.1",
+    "asknestor": "~0.3.0",
     "lodash": "1.3.1"
   },
   "homepage": "https://github.com/zerobotlabs/asknestor-mock-adapter"
