@@ -20,7 +20,7 @@ var __extends = function(child, parent) {
 };
 
 // our stuff starts here
-var Adapter = require("asknestor/src/adapter");
+var Adapter = require("asknestor/src/adapter").Adapter;
 var _       = require("lodash");
 
 function MockAdapter() {
